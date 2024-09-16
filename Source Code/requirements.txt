@@ -1,0 +1,10 @@
+Flask
+# sentence-transformers
+langchain
+replicate
+pypdf
+unstructured
+python-pptx
+python-docx
+gunicorn
+faiss-cpu
